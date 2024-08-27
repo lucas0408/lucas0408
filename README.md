@@ -27,7 +27,7 @@
 <br>
 <br>
 
-## Studying in this moment:
+<h2>Studying in this moment:<h2>
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/627aa8f4-81be-4249-a329-3b1a3a7badab">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/c84ac408-ba89-4f71-8fcf-0621caa124e9">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/2ad250ad-66e6-417e-83d2-c01e88269246">
