@@ -15,22 +15,28 @@
 ![a](https://github.com/user-attachments/assets/4c29765d-cb1d-48d3-9042-3bb862699278)
 </div>
 
+<h2 align="left">Main skills:</h2>
+
 <div align="left">
 
-## Main skills:
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/1daeb1b6-f661-4864-9322-ff36b5e1cda1">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/25aaaa90-d0dc-4873-946a-283d05735730">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/13cd2ae1-5abf-45f6-808f-66904ad58727">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/627aa8f4-81be-4249-a329-3b1a3a7badab">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/2ad250ad-66e6-417e-83d2-c01e88269246">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/80663384-5ed5-4fee-85b0-21a787d2fb19">
-<br>
-<br>
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
+## Studying in this moment:
+
 <div align="left">
-<h2>Studying in this moment:<h2>
+
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/627aa8f4-81be-4249-a329-3b1a3a7badab">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/c84ac408-ba89-4f71-8fcf-0621caa124e9">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/2ad250ad-66e6-417e-83d2-c01e88269246">
