@@ -50,3 +50,11 @@
 
 <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Flucas0408&s=40&c=31039b&bg=00000000&no=6&ff=electrolize&tb=visits%3A+&ta=" alt="visits">
 </div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/2ca2114c-f585-482a-94a4-30355c7c0542"/>
+</div>
