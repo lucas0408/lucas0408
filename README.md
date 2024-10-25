@@ -6,8 +6,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas0408&theme=midnight-purple&hide_border=falso&card_width=750)](https://git.io/streak-stats)
 
-<a href="https://www.linkedin.com/in/lucas-gabriel-navas-sabino-150640250/">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9290e22c-65c2-47f2-8bda-f47fd5e4fb85">
+<a href="https://www.linkedin.com/in/lucas-gabriel-navas-sabino-150640250/" target="_blank">
+  <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9290e22c-65c2-47f2-8bda-f47fd5e4fb85">
+</a>
 <a href="mailto:lucasgabrielnavassabino@gmail.com">
 <img align="center" height="100" width="90" src="https://github.com/user-attachments/assets/8843408c-38b5-4966-86f5-d5ed5ec844e0">
 
