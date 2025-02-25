@@ -33,7 +33,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/cf73ca14-2d85-4266-bbc0-43cf11baec97">
 
 </div>
@@ -48,9 +47,9 @@
 
 ## Studying in this moment:
 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/cf73ca14-2d85-4266-bbc0-43cf11baec97">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/1daeb1b6-f661-4864-9322-ff36b5e1cda1">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/e459066f-5b9d-4c60-824f-6ebe0e089ef1">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/cf73ca14-2d85-4266-bbc0-43cf11baec97">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/6e8d97ea-6ce6-4429-9781-9aded03387a3">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/676bb554-8d17-4d92-9652-5bfb23f74041">
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/ca00db2c-d11e-42e1-b36a-f60e631f0d1b">
