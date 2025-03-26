@@ -13,7 +13,6 @@
 <img align="center" height="100" width="90" src="https://github.com/user-attachments/assets/8843408c-38b5-4966-86f5-d5ed5ec844e0">
 
 
-![a](https://github.com/user-attachments/assets/4c29765d-cb1d-48d3-9042-3bb862699278)
 </div>
 
 <h2 align="left">Main skills:</h2>
